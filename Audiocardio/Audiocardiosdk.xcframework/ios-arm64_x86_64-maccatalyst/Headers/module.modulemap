@@ -1,0 +1,4 @@
+module Audiocardiosdk {
+  header "audiocardiosdk.h"
+  export *
+}
